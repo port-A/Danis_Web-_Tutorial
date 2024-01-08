@@ -1,0 +1,15 @@
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    margin:  200px auto 0 auto;
+    border: solid .5px;
+   
+}
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    margin-left: 50px;
+    margin-top: 250px;
+}
