@@ -12,4 +12,24 @@
     background-color: red;
     margin-left: 50px;
     margin-top: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box h3{
+    text-align: center;
+}
+.t1{
+    
+    background-color: lightsalmon;
+    width: 30%;
+    height: 500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.t1 p{
+   
+   
 }

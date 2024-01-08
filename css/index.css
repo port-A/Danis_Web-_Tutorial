@@ -48,3 +48,46 @@ main .main-quotes p:nth-child(1){
     left: 8vh;
     padding-bottom: 8vh;
 }
+/*The category section*/
+.index-category{
+    width: 100%;
+    padding: 60px 0;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    
+}
+.index-category-box{
+    width: 200px;
+    height: 200px;
+    background-color: #111;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.index-category-box:nth-child(1){
+   background-image: url(../images/Category/website-development.png);
+   
+}
+.index-category-box:nth-child(2){
+    background-image: url(../images/Category/stages-of-film-production.png);
+  
+ }
+ .index-category-box:nth-child(3){
+    background-image: url(../images/Category/Film-Editing.png);
+   
+ }
+ .index-category-box:nth-child(4){
+    background-image: url(../images/Category/Photoshop.png);
+ 
+ }
+.index-category-box h3{
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+    
+}
